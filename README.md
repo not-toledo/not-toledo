@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://br.pinterest.com/pin/275704808435175878/
+
 <!--
 **not-toledo/not-toledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
