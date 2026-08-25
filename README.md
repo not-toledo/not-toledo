@@ -1,6 +1,6 @@
 # Gabriel Toledo
 
-### Backend Developer | ADS Student
+### Backend Developer
 
 Estudante de **Análise e Desenvolvimento de Sistemas na FATEC Itapetininga**, atualmente no 3º semestre, com foco em desenvolvimento backend.
 
@@ -51,26 +51,6 @@ Meu foco atual está em fortalecer minha base para desenvolvimento backend:
 - ☕ Java
 - 🗄️ SQL
 - 🔧 Git e GitHub
-
----
-
-## 🚀 Projetos
-
-Atualmente estou desenvolvendo meus primeiros projetos com foco em **backend** e pretendo adicioná-los aqui conforme forem concluídos.
-
-> Esta seção será atualizada conforme novos projetos forem desenvolvidos.
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=not-toledo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-toledo&layout=compact&langs_count=7&theme=github_dark"/>
-
-</div>
 
 ---
 
