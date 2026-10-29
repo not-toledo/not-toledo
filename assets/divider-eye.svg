@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90" role="presentation">
+<defs><style>
+.disp{font-family:Impact,'Haettenschweiler','Arial Narrow Bold','Arial Black',sans-serif}
+.mono{font-family:'Courier New','DejaVu Sans Mono',monospace}
+.jp{font-family:'Noto Sans JP','Yu Gothic','Hiragino Sans','MS Gothic',sans-serif}
+.glitch{animation:glitch 5s steps(1) infinite}
+@keyframes glitch{0%,89%,100%{transform:translate(0,0);opacity:0}90%{transform:translate(-4px,1px);opacity:.9}92%{transform:translate(4px,-1px);opacity:.9}95%{transform:translate(-2px,1px);opacity:.9}98%{transform:translate(0,0);opacity:0}}
+.br{animation:br 3s ease-in-out infinite}
+@keyframes br{0%,100%{opacity:.35}50%{opacity:1}}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 3s ease-in-out infinite}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.25)}}
+.eye{transform-box:fill-box;transform-origin:center;animation:blink 5s infinite}
+@keyframes blink{0%,90%,100%{transform:scaleY(1)}94%{transform:scaleY(.06)}}
+.iris{transform-box:fill-box;transform-origin:center;animation:glow 2.2s ease-in-out infinite}
+@keyframes glow{0%,100%{transform:scale(1)}50%{transform:scale(1.18)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style></defs>
+<path d="M60,45 H470" stroke="#e10600" stroke-width="2"/><path d="M730,45 H1140" stroke="#e10600" stroke-width="2"/>
+<path d="M60,45 H470" stroke="#e10600" stroke-width="10" stroke-dasharray="1.5 6" opacity=".35" transform="translate(0,-14)"/><path d="M730,45 H1140" stroke="#e10600" stroke-width="10" stroke-dasharray="1.5 6" opacity=".35" transform="translate(0,-14)"/>
+<rect x="60" y="43" width="40" height="4" fill="#ff1a1a"><animate attributeName="x" values="60;430;60" dur="5s" repeatCount="indefinite"/></rect>
+<rect x="1100" y="43" width="40" height="4" fill="#ff1a1a"><animate attributeName="x" values="1100;730;1100" dur="5s" repeatCount="indefinite"/></rect>
+<rect x="490" y="12" width="220" height="66" rx="33" fill="#050505" stroke="#e10600" stroke-width="1.5"/>
+<g class="eye"><path d="M520,45 Q600,6 680,45 Q600,84 680,45Z" fill="none"/><path d="M518,45 Q600,8 682,45 Q600,82 518,45Z" fill="#000" stroke="#e10600" stroke-width="1.5"/>
+<g class="iris"><circle cx="600" cy="45" r="20" fill="#e10600"/><circle cx="600" cy="45" r="20" fill="none" stroke="#ff5040" stroke-width="2"/><ellipse cx="600" cy="45" rx="4" ry="13" fill="#000"/></g></g>
+<g class="br" fill="#e10600" font-size="14" font-family="monospace"><text x="470" y="50">+</text><text x="722" y="50">+</text></g>
+<text x="1160" y="85" text-anchor="end" font-size="11" fill="#e10600" class="jp" opacity=".7">喰種</text></svg>
