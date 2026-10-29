@@ -1,36 +1,33 @@
 <div align="center">
 
-<img src="./imgs/banner.svg" width="100%" alt="Kaneki Ken - Backend | ADS | FATEC Itapetininga" />
+<img src="./imgs/banner.svg" width="100%" alt="Gabriel Toledo - Backend | ADS | FATEC Itapetininga" />
 
 </div>
 
 ## Sobre
 
-Gabriel Toledo, estudante de Análise e Desenvolvimento de Sistemas na FATEC Itapetininga, no 3º semestre, com previsão de conclusão em junho de 2028. Foco em desenvolvimento backend, com projetos práticos para aplicar o que estudo.
+Estudante de Análise e Desenvolvimento de Sistemas na FATEC Itapetininga, no 3º semestre, com previsão de conclusão em junho de 2028. Foco em desenvolvimento backend, com projetos práticos para aplicar o que estudo.
 
 Busco a primeira oportunidade de estágio em desenvolvimento de software.
 
 Idiomas: português (nativo) e inglês (básico).
 
-<div align="center">
-
-<img src="./imgs/stack-ticker.svg" width="100%" alt="Stack: Java, SQL, C, Python, JavaScript, HTML/CSS, Git, GitHub" />
-
-</div>
-
 ## Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-E0102A?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0A0A0A" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-E0102A?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0A0A0A" alt="SQL" />
-  <img src="https://img.shields.io/badge/C-E0102A?style=for-the-badge&logo=c&logoColor=white&labelColor=0A0A0A" alt="C" />
-  <img src="https://img.shields.io/badge/Python-E0102A?style=for-the-badge&logo=python&logoColor=white&labelColor=0A0A0A" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-E0102A?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0A0A0A" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E0102A?style=for-the-badge&logo=html5&logoColor=white&labelColor=0A0A0A" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-E0102A?style=for-the-badge&logo=css3&logoColor=white&labelColor=0A0A0A" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-E0102A?style=for-the-badge&logo=git&logoColor=white&labelColor=0A0A0A" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-E0102A?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="GitHub" />
-</p>
+```yaml
+linguagens:
+  - Java
+  - SQL
+  - C
+  - Python
+  - JavaScript
+web:
+  - HTML5
+  - CSS3
+ferramentas:
+  - Git
+  - GitHub
+```
 
 <div align="center">
 
