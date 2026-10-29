@@ -12,14 +12,7 @@
 
 > **僕は人間だ！** — *"Eu sou um humano!"*
 
-Olá! Eu sou o **Gabriel Toledo**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.<br/>
-Fã de **Tokyo Ghoul** (o Kaneki é o culpado pelo visual deste perfil), curto transformar café e prazo apertado em código.
-
-- 🎓 Cursando **ADS**
-- 🔭 Estudando: `edite aqui o que você está aprendendo agora`
-- 🌱 Construindo: `edite aqui seu projeto atual`
-- 🤝 Aberto a: `estágio · projetos open source · trocar ideia sobre código`
-- ⚡ Curiosidade: `edite aqui`
+Olá! Eu sou o **Gabriel Toledo**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. Curto transformar café e prazo apertado em código. Atualmente estou estudando `edite aqui` e construindo `edite aqui`. Estou aberto a **estágio**, **projetos open source** e a trocar ideia sobre código.
 
 <p align="center">
   <img src="./assets/divider-eye.svg" alt="" width="100%"/>
@@ -77,5 +70,5 @@ Fã de **Tokyo Ghoul** (o Kaneki é o culpado pelo visual deste perfil), curto t
   <img src="./assets/divider.svg" alt="" width="100%"/>
 </p>
 
-<p align="center"><sub><b>"Quando você está na escuridão, só afunda mais — então compile."</b> ·
+<p align="center"><sub><b>"Quando você está na escuridão, só afunda mais — então compile."</b>
 
