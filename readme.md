@@ -62,7 +62,7 @@ Olá! Eu sou o **Gabriel Toledo**, estudante de **Análise e Desenvolvimento de 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&amp;logo=linkedin&amp;logoColor=e10600"/></a>
-  <a href="mailto:seu@email.com"><img alt="Email" src="https://img.shields.io/badge/Email-050505?style=for-the-badge&amp;logo=gmail&amp;logoColor=e10600"/></a>
+  <a href="gabrieltoledo032007@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-050505?style=for-the-badge&amp;logo=gmail&amp;logoColor=e10600"/></a>
   <a href="https://github.com/not-toledo"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&amp;logo=github&amp;logoColor=e10600"/></a>
 </p>
 
