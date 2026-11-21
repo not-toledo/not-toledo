@@ -62,17 +62,6 @@ Agora estou aprimorando minhas habilidades em desenvolvimento de software com Ja
 
 <br>
 
-<h2 align="center">Projeto em destaque</h2>
-
-<div align="center">
-
-**[Projeto-Integrador-SO](https://github.com/not-toledo/Projeto-Integrador-SO)**
-Projeto integrador da disciplina de Sistemas Operacionais.
-
-</div>
-
-<br>
-
 <h2 align="center">Estatísticas</h2>
 
 <div align="center">
@@ -81,8 +70,6 @@ Projeto integrador da disciplina de Sistemas Operacionais.
 <img height="170" src="https://streak-stats.demolab.com?user=not-toledo&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=c9c9c9&dates=c9c9c9" />
 
 <br><br>
-
-<img src="assets/divisor.png" width="60%" alt="" />
 
 <h3><i>"Faz o que deves e está no que fazes."</i></h3>
 <p>São Josemaría Escrivá</p>
