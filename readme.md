@@ -53,19 +53,6 @@ Procuro meu **primeiro estágio em desenvolvimento de software**, para crescer j
 <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white" />
 
-</div>
-
-<br>
-
-<h2 align="center">Projeto em destaque</h2>
-
-<div align="center">
-
-**[Projeto-Integrador-SO](https://github.com/not-toledo/Projeto-Integrador-SO)**
-Projeto integrador da disciplina de Sistemas Operacionais.
-
-</div>
-
 <br>
 
 <h2 align="center">Estatísticas</h2>
