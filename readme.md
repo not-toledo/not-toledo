@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Banner" width="100%" height="220" style="object-fit:cover;" />
+<img src="assets/banner.gif" alt="Banner" width="100%" />
 
 <div align="center">
 
@@ -15,32 +15,18 @@
 
 <h2 align="center">Sobre mim</h2>
 
-<table>
-<tr>
-<td valign="middle">
+<img align="right" width="230" src="assets/sobre.png" alt="Sobre mim" />
 
-Olá! Eu sou o **Gabriel**, estudante de **Análise e Desenvolvimento de Sistemas na FATEC Itapetininga**, hoje no 3º semestre.
+Oi, eu sou o **Gabriel**. Estudo **Análise e Desenvolvimento de Sistemas na FATEC Itapetininga** e estou no 3º semestre.
 
-Gosto de entender como as coisas funcionam por baixo dos panos, e é por isso que o **backend** me chamou a atenção: lógica, dados, APIs e sistemas que rodam longe dos olhos de quem usa.
+Me interesso por **backend** porque é ali que ficam a lógica, os dados e a estrutura que fazem um sistema funcionar de verdade. Hoje estudo **Java, SQL e Spring Boot**, e tento transformar tudo o que aprendo em projetos práticos.
 
-Aprendo construindo: cada estudo vira um projeto, e cada projeto me ensina algo que a teoria sozinha não ensina. Estou em busca da minha **primeira oportunidade de estágio** em desenvolvimento de software.
+Procuro meu **primeiro estágio em desenvolvimento de software**, para crescer junto de um time e trabalhar em projetos reais.
 
-<br>
-
-🎓 Análise e Desenvolvimento de Sistemas, FATEC Itapetininga<br>
-🎯 Foco em desenvolvimento backend<br>
-💼 Em busca do primeiro estágio<br>
-📅 Previsão de conclusão: junho de 2028<br>
+🎓 Conclusão prevista: junho de 2028<br>
 🌎 Português (nativo) · Inglês (básico)
 
-</td>
-<td width="240" align="center">
-
-<img src="assets/sobre.png" width="220" alt="Sobre mim" />
-
-</td>
-</tr>
-</table>
+<br clear="right">
 
 <br>
 
@@ -61,4 +47,39 @@ Aprendo construindo: cada estudo vira um projeto, e cada projeto me ensina algo 
 
 <br><br>
 
--------
+**Estudando agora**
+
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white" />
+
+</div>
+
+<br>
+
+<h2 align="center">Projeto em destaque</h2>
+
+<div align="center">
+
+**[Projeto-Integrador-SO](https://github.com/not-toledo/Projeto-Integrador-SO)**
+Projeto integrador da disciplina de Sistemas Operacionais.
+
+</div>
+
+<br>
+
+<h2 align="center">Estatísticas</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=not-toledo&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&ring_color=ffffff" />
+<img height="170" src="https://streak-stats.demolab.com?user=not-toledo&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=c9c9c9&dates=c9c9c9" />
+
+<br><br>
+
+<img src="assets/divisor.png" width="60%" alt="" />
+
+<h3><i>"Faz o que deves e está no que fazes."</i></h3>
+<p>São Josemaría Escrivá</p>
+
+</div>
