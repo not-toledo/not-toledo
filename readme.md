@@ -72,3 +72,4 @@ Olá! Eu sou o **Gabriel Toledo**, estudante de **Análise e Desenvolvimento de 
 
 <p align="center"><sub><b>"Quando você está na escuridão, só afunda mais — então compile."</b>
 
+---
