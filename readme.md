@@ -3,7 +3,7 @@
 <div align="center">
 
 # Gabriel Toledo
-**Estudante de ADS · Backend Developer em formação**
+**Estudante de ADS · Backend Developer**
 
 <a href="https://www.linkedin.com/in/gabriel-toledo-384745282/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:gabrieltoledo032007@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
