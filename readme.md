@@ -15,18 +15,23 @@
 
 <h2 align="center">Sobre mim</h2>
 
-<img align="right" width="230" src="assets/sobre.png" alt="Sobre mim" />
+<img align="right" width="180" src="assets/sobre.png" alt="Sobre mim" />
 
-Oi, eu sou o **Gabriel**. Estudo **Análise e Desenvolvimento de Sistemas na FATEC Itapetininga** e estou no 3º semestre.
+Olá! Eu sou o *Gabriel Toledo*, estudante de Análise e Desenvolvimento de Sistemas. Gosto de aprender na prática: pego uma ideia, construo um projeto e vou ajustando até funcionar.
 
-Me interesso por **backend** porque é ali que ficam a lógica, os dados e a estrutura que fazem um sistema funcionar de verdade. Hoje estudo **Java, SQL e Spring Boot**, e tento transformar tudo o que aprendo em projetos práticos.
-
-Procuro meu **primeiro estágio em desenvolvimento de software**, para crescer junto de um time e trabalhar em projetos reais.
-
-🎓 Conclusão prevista: junho de 2028<br>
-🌎 Português (nativo) · Inglês (básico)
+Agora estou aprimorando minhas habilidades em desenvolvimento de software com Java, SQL e Spring Boot, e procurando meu primeiro estágio. Quando não estou programando, provavelmente estou jogando FPS ou ouvindo The Lumineers.
 
 <br clear="right">
+
+<div align="center">
+
+🏛️ **Estudando na FATEC Itapetininga** · ADS, 3º semestre<br>
+💻 **Foco em desenvolvimento backend**<br>
+💼 **Em busca do primeiro estágio**<br>
+🎮 **Jogos FPS** · 🎧 **The Lumineers**<br>
+🌎 **Português (nativo)** · **Inglês (básico)**
+
+</div>
 
 <br>
 
@@ -52,6 +57,19 @@ Procuro meu **primeiro estágio em desenvolvimento de software**, para crescer j
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white" />
+
+</div>
+
+<br>
+
+<h2 align="center">Projeto em destaque</h2>
+
+<div align="center">
+
+**[Projeto-Integrador-SO](https://github.com/not-toledo/Projeto-Integrador-SO)**
+Projeto integrador da disciplina de Sistemas Operacionais.
+
+</div>
 
 <br>
 
