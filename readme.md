@@ -61,39 +61,4 @@ Aprendo construindo: cada estudo vira um projeto, e cada projeto me ensina algo 
 
 <br><br>
 
-**Estudando agora**
-
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white" />
-
-</div>
-
-<br>
-
-<h2 align="center">Projeto em destaque</h2>
-
-<div align="center">
-
-**[Projeto-Integrador-SO](https://github.com/not-toledo/Projeto-Integrador-SO)**
-Projeto integrador da disciplina de Sistemas Operacionais.
-
-</div>
-
-<br>
-
-<h2 align="center">Estatísticas</h2>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=not-toledo&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&ring_color=ffffff" />
-<img height="170" src="https://streak-stats.demolab.com?user=not-toledo&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=c9c9c9&dates=c9c9c9" />
-
-</div>
-
-<br>
-
-<img src="assets/divisor.png" width="100%" height="160" style="object-fit:cover;" alt="" />
-
-<h3 align="center"><i>"FRASE ESCOLHIDA AQUI"</i></h3>
-<p align="center">— AUTOR</p>
+-------
