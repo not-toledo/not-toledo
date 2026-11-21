@@ -17,7 +17,7 @@
 
 <img align="right" width="180" src="assets/sobre.png" alt="Sobre mim" />
 
-Olá! Eu sou o *Gabriel Toledo*, estudante de Análise e Desenvolvimento de Sistemas. Gosto de aprender na prática: pego uma ideia, construo um projeto e vou ajustando até funcionar.
+Olá! Eu sou o *Gabriel Toledo*, estudante de Análise e Desenvolvimento de Sistemas.
 
 Agora estou aprimorando minhas habilidades em desenvolvimento de software com Java, SQL e Spring Boot, e procurando meu primeiro estágio. Quando não estou programando, provavelmente estou jogando FPS ou ouvindo The Lumineers.
 
